@@ -1,3 +1,2 @@
-# AR Library check for USDZ Fiels => Chetan Anarthe
-
-Testing website for WebAR and USDZ file. [here](ARWebsite.html)!
+# AR Library
+This is a website for an AR Library! You can view it [here](Website.html)!
